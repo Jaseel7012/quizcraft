@@ -1,0 +1,6 @@
+{
+  "name": "QuizCraft - Online Quiz Competition Platform",
+  "description": "Secure, professional online quiz competition platform with randomized question sets, timed attempts, anti-cheating controls, participant tracking, and rich admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
